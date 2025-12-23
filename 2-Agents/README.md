@@ -185,13 +185,7 @@ Not perfect, but safer than plain text.
 
 ---
 
-## 8. Mental model (important)
 
-Prompt structure is not formatting.  
-It is control flow for language models.
-
-Roles act like permissions.  
-Tokens act like execution order.
 
 ---
 
