@@ -1,5 +1,4 @@
 # ChatML and Prompt Structures Across LLMs
-
 ## 1. Why prompt structure exists (first principles)
 
 A language model only understands a single stream of tokens.
